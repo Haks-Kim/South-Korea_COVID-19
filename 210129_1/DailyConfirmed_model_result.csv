@@ -1,0 +1,50 @@
+,V1,V2,V3
+17,DailyConfirmed,DailyConfirmed ~ L1 + L7 + L21,3588.064118
+2,DailyConfirmed,DailyConfirmed ~ L1 + L14,3592.848096
+1,DailyConfirmed,DailyConfirmed ~ L1 + L7,3592.871521
+3,DailyConfirmed,DailyConfirmed ~ L1 + L21,3593.442247
+29,DailyConfirmed,DailyConfirmed ~ L1 + L2 + L3 + L14,3598.462743
+12,DailyConfirmed,DailyConfirmed ~ L1 + L2 + L21,3599.012616
+46,DailyConfirmed,DailyConfirmed ~ L1 + L2 + L7 + L14 + L21,3600.636019
+11,DailyConfirmed,DailyConfirmed ~ L1 + L2 + L14,3601.492834
+16,DailyConfirmed,DailyConfirmed ~ L1 + L7 + L14,3603.586741
+15,DailyConfirmed,DailyConfirmed ~ L1 + L3 + L21,3605.395103
+13,DailyConfirmed,DailyConfirmed ~ L1 + L3 + L7,3606.479117
+37,DailyConfirmed,DailyConfirmed ~ L1 + L7 + L14 + L21,3608.343613
+33,DailyConfirmed,DailyConfirmed ~ L1 + L2 + L14 + L21,3610.208536
+14,DailyConfirmed,DailyConfirmed ~ L1 + L3 + L14,3611.910822
+18,DailyConfirmed,DailyConfirmed ~ L1 + L14 + L21,3614.698155
+45,DailyConfirmed,DailyConfirmed ~ L1 + L2 + L3 + L14 + L21,3617.270492
+32,DailyConfirmed,DailyConfirmed ~ L1 + L2 + L7 + L21,3620.993012
+34,DailyConfirmed,DailyConfirmed ~ L1 + L3 + L7 + L14,3621.234722
+30,DailyConfirmed,DailyConfirmed ~ L1 + L2 + L3 + L21,3621.364912
+49,DailyConfirmed,DailyConfirmed ~ L1 + L2 + L3 + L7 + L14 + L21,3623.498593
+31,DailyConfirmed,DailyConfirmed ~ L1 + L2 + L7 + L14,3624.902077
+35,DailyConfirmed,DailyConfirmed ~ L1 + L3 + L7 + L21,3627.077175
+44,DailyConfirmed,DailyConfirmed ~ L1 + L2 + L3 + L7 + L21,3639.193506
+36,DailyConfirmed,DailyConfirmed ~ L1 + L3 + L14 + L21,3644.911876
+43,DailyConfirmed,DailyConfirmed ~ L1 + L2 + L3 + L7 + L14,3649.328516
+47,DailyConfirmed,DailyConfirmed ~ L1 + L3 + L7 + L14 + L21,3649.329571
+10,DailyConfirmed,DailyConfirmed ~ L1 + L2 + L7,3665.484582
+28,DailyConfirmed,DailyConfirmed ~ L1 + L2 + L3 + L7,3703.270403
+41,DailyConfirmed,DailyConfirmed ~ L2 + L7 + L14 + L21,4023.549065
+23,DailyConfirmed,DailyConfirmed ~ L2 + L7 + L21,4033.824716
+22,DailyConfirmed,DailyConfirmed ~ L2 + L7 + L14,4042.709602
+19,DailyConfirmed,DailyConfirmed ~ L2 + L3 + L7,4045.11247
+5,DailyConfirmed,DailyConfirmed ~ L2 + L14,4056.95159
+6,DailyConfirmed,DailyConfirmed ~ L2 + L21,4060.083279
+4,DailyConfirmed,DailyConfirmed ~ L2 + L7,4091.85157
+24,DailyConfirmed,DailyConfirmed ~ L2 + L14 + L21,4131.648751
+39,DailyConfirmed,DailyConfirmed ~ L2 + L3 + L7 + L21,4141.441026
+20,DailyConfirmed,DailyConfirmed ~ L2 + L3 + L14,4147.203475
+42,DailyConfirmed,DailyConfirmed ~ L3 + L7 + L14 + L21,4189.130314
+8,DailyConfirmed,DailyConfirmed ~ L3 + L14,4228.600632
+48,DailyConfirmed,DailyConfirmed ~ L2 + L3 + L7 + L14 + L21,4260.521496
+38,DailyConfirmed,DailyConfirmed ~ L2 + L3 + L7 + L14,4270.012127
+40,DailyConfirmed,DailyConfirmed ~ L2 + L3 + L14 + L21,4308.050895
+21,DailyConfirmed,DailyConfirmed ~ L2 + L3 + L21,4329.008795
+25,DailyConfirmed,DailyConfirmed ~ L3 + L7 + L14,4587.201227
+26,DailyConfirmed,DailyConfirmed ~ L3 + L7 + L21,4643.089664
+9,DailyConfirmed,DailyConfirmed ~ L3 + L21,4660.46094
+7,DailyConfirmed,DailyConfirmed ~ L3 + L7,4662.429918
+27,DailyConfirmed,DailyConfirmed ~ L3 + L14 + L21,4727.058292

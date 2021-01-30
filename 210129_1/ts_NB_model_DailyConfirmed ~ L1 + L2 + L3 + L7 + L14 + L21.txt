@@ -1,0 +1,37 @@
+
+Call:
+tsglm(ts = data_df[, each_y], model = list(past_obs = as.numeric(y_date), 
+    past_mean = as.numeric(mean_date)), link = "log", distr = "nbinom")
+
+Coefficients:
+(Intercept)       beta_1       beta_2       beta_3      alpha_7     alpha_14     alpha_21  
+    0.26714      0.78753      0.13123      0.06714     -0.02492     -0.05961      0.05602  
+
+Overdispersion coefficient 'sigmasq' was estimated to be 0.2378982.
+
+
+Call:
+tsglm(ts = data_df[, each_y], model = list(past_obs = as.numeric(y_date), 
+    past_mean = as.numeric(mean_date)), link = "log", distr = "nbinom")
+
+Coefficients:
+             Estimate  Std.Error  CI(lower)  CI(upper)
+(Intercept)    0.2671     0.1793    -0.0843     0.6185
+beta_1         0.7875     0.1306     0.5316     1.0435
+beta_2         0.1312     0.1671    -0.1963     0.4588
+beta_3         0.0671     0.1339    -0.1952     0.3295
+alpha_7       -0.0249     0.0582    -0.1391     0.0892
+alpha_14      -0.0596     0.0509    -0.1593     0.0401
+alpha_21       0.0560     0.0352    -0.0129     0.1250
+sigmasq        0.2379         NA         NA         NA
+Standard errors and confidence intervals (level =  95 %) obtained
+by normal approximation.
+
+Link function: log 
+Distribution family: nbinom (with overdispersion coefficient 'sigmasq') 
+Number of coefficients: 8 
+Log-likelihood: -1803.749 
+AIC: 3623.499 
+BIC: 3654.914 
+QIC: 9075.914 
+
